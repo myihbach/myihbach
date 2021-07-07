@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there :blush:
 
 I am `IHBACH Mohamed Yassine` :innocent: , a `Data Science and Modeling` student at **Al Khwarizmi, Modeling, Simulation & Data Analysis Department (MSDA)**  at **the Institute of Science, Technology & Innovation (IST&I)**, within **Mohammed VI Polytechnic University (UM6P)**
 <br>

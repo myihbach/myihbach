@@ -1,6 +1,6 @@
 ### Hi there :blush:
 
-I am `IHBACH Mohamed Yassine` :innocent: , a `Data Science and Modeling` student at **Al Khwarizmi, Modeling, Simulation & Data Analysis Department (MSDA)**  at **the Institute of Science, Technology & Innovation (IST&I)**, within **Mohammed VI Polytechnic University (UM6P)**
+I am **IHBACH Mohamed Yassine** :innocent: , a **Data Science and Modeling** student at [Al KHWARIZMI Department](https://www.um6p.ma/node/202) within [the Institute of Science, Technology & Innovation (IST&I)](https://www.um6p.ma/en/institute-science-technology-innovation) at [Mohammed VI Polytechnic University (UM6P)](https://www.um6p.ma/en)
 <br>
 
 ### I am full of inquisitiveness, thirst for knowledge and lust for learning.
@@ -11,9 +11,8 @@ I am `IHBACH Mohamed Yassine` :innocent: , a `Data Science and Modeling` student
 - NLP, Text mining and Web mining
 - Data visualization and Business Intelligence
 - Distributed computing and HPC
-- Multi-agent modeling
-- Stochastic modeling
-- numerical analysis methods
+- Multi-agent and Stochastic modeling
+- PDE and numerical methods
 - CyberSecurity
 ---
 
@@ -24,7 +23,8 @@ Motivation for `Python` :
 - How : Using libraries that accelerate the code ( either by generating equivalent code (also parallelized) in another low level programming language or on the fly (Just in time compilation)
 - Libraries :  [Numba](https://github.com/numba/numba) , [Pyccel](https://github.com/pyccel/pyccel) ...
 
-
+---
 
 
 ## :shamrock: The most important is not the knowledge you have but the skill of acquiring it :shamrock:
+---

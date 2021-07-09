@@ -13,6 +13,7 @@ I am **IHBACH Mohamed Yassine** :innocent: , a **Data Science and Modeling** stu
 - Distributed computing and HPC
 - Multi-agent and Stochastic modeling
 - PDE and numerical methods
+- High energy physics :atom: and Astronomy 🔭
 - CyberSecurity
 ---
 

@@ -20,7 +20,7 @@ I am a `Python` lover :snake: , but also familliar with `C/C++` , `PHP` , `Javas
 
 Motivation for `Python` : 
 - You can always write your code with python and have performance similar to `C/Fortran` or even better
-- How : Using libraries that accelerate the code ( either by generating equivalent code (also parallelized) in another low level programming language or on the fly (Just in time compilation)
+- How : Using libraries that accelerate the code ( either by generating equivalent code in another low level programming language or on the fly (Just in time compilation)
 - Libraries :  [Numba](https://github.com/numba/numba) , [Pyccel](https://github.com/pyccel/pyccel) ...
 
 ---

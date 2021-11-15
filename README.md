@@ -1,5 +1,7 @@
 ### Hi there :blush:
 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=myihbach&show_icons=true&theme=dark&hide_border=true&hide_title=true" width="360">
+
 I am **IHBACH Mohamed Yassine** :innocent: , a **Data Science and Modeling** student at [Al KHWARIZMI Department](https://www.um6p.ma/node/202) within [the Institute of Science, Technology & Innovation (IST&I)](https://www.um6p.ma/en/institute-science-technology-innovation) at [Mohammed VI Polytechnic University (UM6P)](https://www.um6p.ma/en)
 <br>
 

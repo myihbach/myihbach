@@ -6,26 +6,31 @@ I am **IHBACH Mohamed Yassine** :innocent: , a **Data Science and Modeling** stu
 ### I am full of inquisitiveness, thirst for knowledge and lust for learning.
 
 ### interested in : 
-
-- Data mining , Machine learing and Deep learning 
+- Data mining , Machine learing, Deep learning and Reinforcement learning
 - NLP, Text mining and Web mining
-- Data visualization and Business Intelligence
+- Big data and cloud computing
+- Data visualization, Data storytelling and Business Intelligence
 - Distributed computing and HPC
 - Multi-agent and Stochastic modeling
 - PDE and numerical methods
 - High energy physics :atom: and Astronomy 🔭
 - CyberSecurity
----
+&nbsp;&nbsp;
 
-I am a `Python` lover :snake: , but also familliar with `C/C++` , `PHP` , `Javascript` , `Matlab`
+## :shamrock: The most important is not the knowledge you have but the skill of acquiring it :shamrock: 
+<p align='center'>
+   <a href="https://www.linkedin.com/in/m-y-ihbach/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://www.facebook.com/yasinihbach">
+    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://www.instagram.com/yasin_ihbach/">
+    <img src="https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  
+  
+</p>
 
-Motivation for `Python` : 
-- You can always write your code with python and have performance similar to `C/Fortran` or even better
-- How : Using libraries that accelerate the code ( either by generating equivalent code in another low level programming language or on the fly (Just in time compilation)
-- Libraries :  [Numba](https://github.com/numba/numba) , [Pyccel](https://github.com/pyccel/pyccel) ...
-
----
-
-
-## :shamrock: The most important is not the knowledge you have but the skill of acquiring it :shamrock:
----

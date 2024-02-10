@@ -2,6 +2,12 @@
 
 I am **IHBACH Mohamed Yassine** :innocent: , a **Data Scientist** ML, NLP, Computer Vision and MLOPS.
 
+Working currently on the following topics:
+
+- Document understanding and Analysis (Computer vision and NLP)
+- Knowledge representation
+- MLOps
+
 ### I am full of inquisitiveness, thirst for knowledge and lust for learning.
 
 ## :shamrock: The most important is not the knowledge you have but the skill of acquiring it :shamrock: 

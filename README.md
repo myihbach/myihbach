@@ -1,6 +1,6 @@
 ### Hi there :blush:
 
-I am **IHBACH Mohamed Yassine** :innocent: , a **Data Scientist** ML, NLP, Computer Vision and MLOPS.
+I am **IHBACH Mohamed Yassine** :innocent: , a **Data Scientist** interested in ML, NLP, Computer Vision and MLOPS.
 
 Working currently on the following topics:
 
